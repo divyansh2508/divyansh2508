@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyansh2508
+- 👋 Hi, myself Divyansh Singhal.
 - 👀 I’m interested in coding. Languages used by me are C/C++, Python and Java.
 - 🌱 I’m currently pursuing B.Tech (CSE) Graphics and Gaming Spl. from UPES(University of Petroleum and Energy Studies)
 - 💞️ I’m looking to collaborate with companies that ahead towards great results in future for mankind.
